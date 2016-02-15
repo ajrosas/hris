@@ -1,4 +1,6 @@
-﻿Public Class frmlogin
+﻿Imports MySql.Data.MySqlClient
+Imports MySql.Data.Entity
+Public Class frmlogin
 
     Private Sub frmlogin_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
 
