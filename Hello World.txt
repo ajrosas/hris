@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+Hello World!!
+Wow!!
+=======
+<<<<<<< HEAD
 Hello World
 Wow Philippines
 Hi World
@@ -6,3 +10,4 @@ Natanggap ko ang iyong mensahe!
 =======
 Hello World!!
 >>>>>>> a3f0b5213157a4528a201bc77c9e61dee377381d
+>>>>>>> origin/jg
