@@ -1,12 +1,4 @@
-﻿Imports MySql.Data.MySqlClient
-Imports MySql.Data.Entity
-Public Class frmlogin
-
-    Private Sub frmlogin_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-
-    End Sub
-
-    Private Sub txtusername_KeyPress(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyPressEventArgs) Handles txtusername.KeyPress
+ Private Sub txtusername_KeyPress(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyPressEventArgs) Handles txtusername.KeyPress
         '97 - 122 = Ascii codes for simple letters
         '65 - 90  = Ascii codes for capital letters
         '48 - 57  = Ascii codes for numbers
@@ -24,7 +16,6 @@ Public Class frmlogin
 
     Private Sub txtusername_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles txtusername.TextChanged
         ' Uppercase first character.
-        'txtusername.Text = Globalization.CultureInfo.CurrentCulture.TextInfo.ToTitleCase(txtusername.Text)
-        'txtusername.SelectionStart = txtusername.TextLength + 1
+        txtusername.Text = Globalization.CultureInfo.CurrentCulture.TextInfo.ToTitleCase(txtusername.Text)
+        txtusername.SelectionStart = txtusername.TextLength + 1
     End Sub
-End Class
