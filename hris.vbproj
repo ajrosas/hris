@@ -92,10 +92,46 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="form\frmdash.Designer.vb">
+      <DependentUpon>frmdash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmdash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmempstatus.Designer.vb">
+      <DependentUpon>frmempstatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmempstatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmjobcat.Designer.vb">
+      <DependentUpon>frmjobcat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmjobcat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmjobtitle.Designer.vb">
+      <DependentUpon>frmjobtitle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmjobtitle.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="form\frmlogin.Designer.vb">
       <DependentUpon>frmlogin.vb</DependentUpon>
     </Compile>
     <Compile Include="form\frmlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmpaygrades.Designer.vb">
+      <DependentUpon>frmpaygrades.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmpaygrades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmworkshift.Designer.vb">
+      <DependentUpon>frmworkshift.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmworkshift.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -115,8 +151,26 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="form\frmdash.resx">
+      <DependentUpon>frmdash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmempstatus.resx">
+      <DependentUpon>frmempstatus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmjobcat.resx">
+      <DependentUpon>frmjobcat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmjobtitle.resx">
+      <DependentUpon>frmjobtitle.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="form\frmlogin.resx">
       <DependentUpon>frmlogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmpaygrades.resx">
+      <DependentUpon>frmpaygrades.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmworkshift.resx">
+      <DependentUpon>frmworkshift.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
