@@ -27,4 +27,10 @@ Public Class frmlogin
         'txtusername.Text = Globalization.CultureInfo.CurrentCulture.TextInfo.ToTitleCase(txtusername.Text)
         'txtusername.SelectionStart = txtusername.TextLength + 1
     End Sub
+
+    Private Sub btnlogin_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnlogin.Click
+        'button use to go in frmdash without username and password
+        Me.Hide()
+        frmdash.Show()
+    End Sub
 End Class
