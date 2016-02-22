@@ -38,9 +38,9 @@ Partial Class frmjobtitle
         Me.btnorgan = New System.Windows.Forms.Button()
         Me.btnjob = New System.Windows.Forms.Button()
         Me.grpboxjobtitle = New System.Windows.Forms.GroupBox()
+        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
         Me.btndelete = New System.Windows.Forms.Button()
         Me.btnadd = New System.Windows.Forms.Button()
-        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
         Me.grpbox1.SuspendLayout()
         Me.grpboxjobtitle.SuspendLayout()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -200,6 +200,14 @@ Partial Class frmjobtitle
         Me.grpboxjobtitle.TabStop = False
         Me.grpboxjobtitle.Text = "Job Title"
         '
+        'DataGridView1
+        '
+        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DataGridView1.Location = New System.Drawing.Point(-8, 76)
+        Me.DataGridView1.Name = "DataGridView1"
+        Me.DataGridView1.Size = New System.Drawing.Size(1362, 526)
+        Me.DataGridView1.TabIndex = 12
+        '
         'btndelete
         '
         Me.btndelete.Location = New System.Drawing.Point(186, 19)
@@ -217,14 +225,6 @@ Partial Class frmjobtitle
         Me.btnadd.TabIndex = 10
         Me.btnadd.Text = "Add"
         Me.btnadd.UseVisualStyleBackColor = True
-        '
-        'DataGridView1
-        '
-        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Location = New System.Drawing.Point(-8, 76)
-        Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.Size = New System.Drawing.Size(1362, 526)
-        Me.DataGridView1.TabIndex = 12
         '
         'frmjobtitle
         '
