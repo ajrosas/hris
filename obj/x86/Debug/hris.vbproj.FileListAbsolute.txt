@@ -10,3 +10,19 @@ C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hr
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.exe
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.xml
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.pdb
+C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.exe
+C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.xml
+C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.pdb
+<<<<<<< HEAD
+=======
+C:\Users\Jeff\Documents\GitHub\hris\hris\bin\Debug\hris.exe
+C:\Users\Jeff\Documents\GitHub\hris\hris\bin\Debug\hris.pdb
+C:\Users\Jeff\Documents\GitHub\hris\hris\bin\Debug\hris.xml
+C:\Users\Jeff\Documents\GitHub\hris\hris\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Jeff\Documents\GitHub\hris\hris\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.vbprojResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.frmdash.resources
+C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.frmlogin.resources
+C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.Resources.resources
+C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.vbproj.GenerateResource.Cache
+>>>>>>> origin/master
