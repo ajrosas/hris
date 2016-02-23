@@ -38,9 +38,15 @@ Partial Class frmjobtitle
         Me.btnorgan = New System.Windows.Forms.Button()
         Me.btnjob = New System.Windows.Forms.Button()
         Me.grpboxjobtitle = New System.Windows.Forms.GroupBox()
+<<<<<<< HEAD
+        Me.btndelete = New System.Windows.Forms.Button()
+        Me.btnadd = New System.Windows.Forms.Button()
+        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
+=======
         Me.DataGridView1 = New System.Windows.Forms.DataGridView()
         Me.btndelete = New System.Windows.Forms.Button()
         Me.btnadd = New System.Windows.Forms.Button()
+>>>>>>> 27330fe6ccf49d9011537e27aa5923e1e99cdb2f
         Me.grpbox1.SuspendLayout()
         Me.grpboxjobtitle.SuspendLayout()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -200,6 +206,8 @@ Partial Class frmjobtitle
         Me.grpboxjobtitle.TabStop = False
         Me.grpboxjobtitle.Text = "Job Title"
         '
+<<<<<<< HEAD
+=======
         'DataGridView1
         '
         Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
@@ -208,6 +216,7 @@ Partial Class frmjobtitle
         Me.DataGridView1.Size = New System.Drawing.Size(1362, 526)
         Me.DataGridView1.TabIndex = 12
         '
+>>>>>>> 27330fe6ccf49d9011537e27aa5923e1e99cdb2f
         'btndelete
         '
         Me.btndelete.Location = New System.Drawing.Point(186, 19)
@@ -226,6 +235,17 @@ Partial Class frmjobtitle
         Me.btnadd.Text = "Add"
         Me.btnadd.UseVisualStyleBackColor = True
         '
+<<<<<<< HEAD
+        'DataGridView1
+        '
+        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DataGridView1.Location = New System.Drawing.Point(-8, 76)
+        Me.DataGridView1.Name = "DataGridView1"
+        Me.DataGridView1.Size = New System.Drawing.Size(1362, 526)
+        Me.DataGridView1.TabIndex = 12
+        '
+=======
+>>>>>>> 27330fe6ccf49d9011537e27aa5923e1e99cdb2f
         'frmjobtitle
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
