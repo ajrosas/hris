@@ -23,3 +23,6 @@ C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.frmdash.resources
 C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.frmlogin.resources
 C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.Resources.resources
 C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.vbproj.GenerateResource.Cache
+C:\Users\Jeff\Desktop\hris\hris\obj\x86\Debug\hris.exe
+C:\Users\Jeff\Desktop\hris\hris\obj\x86\Debug\hris.xml
+C:\Users\Jeff\Desktop\hris\hris\obj\x86\Debug\hris.pdb
