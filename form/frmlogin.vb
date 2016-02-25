@@ -31,6 +31,6 @@ Public Class frmlogin
     Private Sub btnlogin_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnlogin.Click
         'button use to go in frmdash without username and password
         Me.Hide()
-        frmdash.Show()
+        frmemployeelist.Show()
     End Sub
 End Class
