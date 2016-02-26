@@ -51,4 +51,8 @@
         txtemployeename.Text = Globalization.CultureInfo.CurrentCulture.TextInfo.ToTitleCase(txtemployeename.Text)
         txtemployeename.SelectionStart = txtemployeename.TextLength + 1
     End Sub
+
+    Private Sub frmemployeelist_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+
+    End Sub
 End Class
