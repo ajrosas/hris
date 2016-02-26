@@ -46,6 +46,7 @@
         txtemployeename.Text = Globalization.CultureInfo.CurrentCulture.TextInfo.ToTitleCase(txtemployeename.Text)
         txtemployeename.SelectionStart = txtemployeename.TextLength + 1
     End Sub
+<<<<<<< HEAD
       
     Private Sub txtsupervisorname_KeyPress(ByVal sender As System.Object, ByVal e As System.Windows.Forms.KeyPressEventArgs) Handles txtsupervisorname.KeyPress
         '97 - 122 = Ascii codes for simple letters
@@ -71,5 +72,10 @@
     Private Sub Button3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button3.Click
         Me.Hide()
         frmaddemployee.Show()
+=======
+
+    Private Sub frmemployeelist_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+
+>>>>>>> 04670b03f638affb60a978973ca668501df90314
     End Sub
 End Class

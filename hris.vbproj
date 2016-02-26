@@ -110,6 +110,15 @@
     <Compile Include="form\frmemployeelist.vb">
       <SubType>Form</SubType>
     </Compile>
+<<<<<<< HEAD
+=======
+    <Compile Include="form\frmempstatus.Designer.vb">
+      <DependentUpon>frmempstatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmempstatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+>>>>>>> 04670b03f638affb60a978973ca668501df90314
     <Compile Include="form\frmjobcat.Designer.vb">
       <DependentUpon>frmjobcat.vb</DependentUpon>
     </Compile>
@@ -166,6 +175,12 @@
     <EmbeddedResource Include="form\frmemployeelist.resx">
       <DependentUpon>frmemployeelist.vb</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
+=======
+    <EmbeddedResource Include="form\frmempstatus.resx">
+      <DependentUpon>frmempstatus.vb</DependentUpon>
+    </EmbeddedResource>
+>>>>>>> 04670b03f638affb60a978973ca668501df90314
     <EmbeddedResource Include="form\frmjobcat.resx">
       <DependentUpon>frmjobcat.vb</DependentUpon>
     </EmbeddedResource>
@@ -189,6 +204,9 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>

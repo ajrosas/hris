@@ -3,7 +3,6 @@ C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\bin\Debug\hris.p
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\bin\Debug\hris.xml
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\bin\Debug\MySql.Data.Entity.EF6.dll
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\bin\Debug\MySql.Fabric.Plugin.dll
-C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.vbprojResolveAssemblyReference.cache
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.frmlogin.resources
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.Resources.resources
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.vbproj.GenerateResource.Cache
@@ -14,8 +13,11 @@ C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.exe
 C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.xml
 C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.pdb
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 27330fe6ccf49d9011537e27aa5923e1e99cdb2f
+=======
+>>>>>>> 04670b03f638affb60a978973ca668501df90314
 C:\Users\Jeff\Documents\GitHub\hris\hris\bin\Debug\hris.exe
 C:\Users\Jeff\Documents\GitHub\hris\hris\bin\Debug\hris.pdb
 C:\Users\Jeff\Documents\GitHub\hris\hris\bin\Debug\hris.xml
@@ -26,10 +28,13 @@ C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.frmdash.resources
 C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.frmlogin.resources
 C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.Resources.resources
 C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.vbproj.GenerateResource.Cache
+<<<<<<< HEAD
 C:\Users\Jeff\Desktop\hris\hris\obj\x86\Debug\hris.exe
 C:\Users\Jeff\Desktop\hris\hris\obj\x86\Debug\hris.xml
 C:\Users\Jeff\Desktop\hris\hris\obj\x86\Debug\hris.pdb
 >>>>>>> origin/master
+=======
+>>>>>>> 04670b03f638affb60a978973ca668501df90314
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.frmdash.resources
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.frmemployeelist.resources
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.frmempstatus.resources
@@ -37,10 +42,21 @@ C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hr
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.frmjobtitle.resources
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.frmpaygrades.resources
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.frmworkshift.resources
+<<<<<<< HEAD
 >>>>>>> 5cf9dab8a55d231ec5c5beefee30dcb03ff3e956
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.exe
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.xml
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.pdb
+=======
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.exe
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.xml
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.pdb
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\bin\Debug\hris.exe
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\bin\Debug\hris.pdb
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\bin\Debug\hris.xml
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\bin\Debug\MySql.Fabric.Plugin.dll
+>>>>>>> 04670b03f638affb60a978973ca668501df90314
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.vbprojResolveAssemblyReference.cache
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.frmdash.resources
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.frmemployeelist.resources
@@ -52,6 +68,7 @@ C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.frmworkshift.resources
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.Resources.resources
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.vbproj.GenerateResource.Cache
+<<<<<<< HEAD
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\bin\Debug\hris.exe.config
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\bin\Debug\hris.exe
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\bin\Debug\hris.pdb
@@ -60,3 +77,10 @@ C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\bin\Debug\MySql.Da
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\bin\Debug\MySql.Fabric.Plugin.dll
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.frmaddemployee.resources
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.frmpersonaldetail.resources
+=======
+<<<<<<< HEAD
+=======
+C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\bin\Debug\hris.exe.config
+>>>>>>> ajr
+C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.vbprojResolveAssemblyReference.cache
+>>>>>>> 04670b03f638affb60a978973ca668501df90314
