@@ -3,7 +3,6 @@ C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\bin\Debug\hris.p
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\bin\Debug\hris.xml
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\bin\Debug\MySql.Data.Entity.EF6.dll
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\bin\Debug\MySql.Fabric.Plugin.dll
-C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.vbprojResolveAssemblyReference.cache
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.frmlogin.resources
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.Resources.resources
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.vbproj.GenerateResource.Cache
@@ -49,3 +48,7 @@ C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.frmworkshift.resources
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.Resources.resources
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.vbproj.GenerateResource.Cache
+<<<<<<< HEAD
+=======
+C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\bin\Debug\hris.exe.config
+>>>>>>> ajr
