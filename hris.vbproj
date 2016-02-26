@@ -98,15 +98,12 @@
     <Compile Include="form\frmdash.vb">
       <SubType>Form</SubType>
     </Compile>
-<<<<<<< HEAD
-=======
     <Compile Include="form\frmemployeelist.Designer.vb">
       <DependentUpon>frmemployeelist.vb</DependentUpon>
     </Compile>
     <Compile Include="form\frmemployeelist.vb">
       <SubType>Form</SubType>
     </Compile>
->>>>>>> 27330fe6ccf49d9011537e27aa5923e1e99cdb2f
     <Compile Include="form\frmempstatus.Designer.vb">
       <DependentUpon>frmempstatus.vb</DependentUpon>
     </Compile>
@@ -163,12 +160,9 @@
     <EmbeddedResource Include="form\frmdash.resx">
       <DependentUpon>frmdash.vb</DependentUpon>
     </EmbeddedResource>
-<<<<<<< HEAD
-=======
     <EmbeddedResource Include="form\frmemployeelist.resx">
       <DependentUpon>frmemployeelist.vb</DependentUpon>
     </EmbeddedResource>
->>>>>>> 27330fe6ccf49d9011537e27aa5923e1e99cdb2f
     <EmbeddedResource Include="form\frmempstatus.resx">
       <DependentUpon>frmempstatus.vb</DependentUpon>
     </EmbeddedResource>
@@ -195,6 +189,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <None Include="app.config" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
