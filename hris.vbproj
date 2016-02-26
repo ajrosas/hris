@@ -92,37 +92,28 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="form\frmaddemployee.Designer.vb">
+      <DependentUpon>frmaddemployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmaddemployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="form\frmdash.Designer.vb">
       <DependentUpon>frmdash.vb</DependentUpon>
     </Compile>
     <Compile Include="form\frmdash.vb">
       <SubType>Form</SubType>
     </Compile>
-<<<<<<< HEAD
-=======
     <Compile Include="form\frmemployeelist.Designer.vb">
       <DependentUpon>frmemployeelist.vb</DependentUpon>
     </Compile>
     <Compile Include="form\frmemployeelist.vb">
       <SubType>Form</SubType>
     </Compile>
->>>>>>> 27330fe6ccf49d9011537e27aa5923e1e99cdb2f
-    <Compile Include="form\frmempstatus.Designer.vb">
-      <DependentUpon>frmempstatus.vb</DependentUpon>
-    </Compile>
-    <Compile Include="form\frmempstatus.vb">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="form\frmjobcat.Designer.vb">
       <DependentUpon>frmjobcat.vb</DependentUpon>
     </Compile>
     <Compile Include="form\frmjobcat.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="form\frmjobtitle.Designer.vb">
-      <DependentUpon>frmjobtitle.vb</DependentUpon>
-    </Compile>
-    <Compile Include="form\frmjobtitle.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="form\frmlogin.Designer.vb">
@@ -135,6 +126,12 @@
       <DependentUpon>frmpaygrades.vb</DependentUpon>
     </Compile>
     <Compile Include="form\frmpaygrades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmpersonaldetail.Designer.vb">
+      <DependentUpon>frmpersonaldetail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmpersonaldetail.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="form\frmworkshift.Designer.vb">
@@ -160,29 +157,26 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="form\frmaddemployee.resx">
+      <DependentUpon>frmaddemployee.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="form\frmdash.resx">
       <DependentUpon>frmdash.vb</DependentUpon>
     </EmbeddedResource>
-<<<<<<< HEAD
-=======
     <EmbeddedResource Include="form\frmemployeelist.resx">
       <DependentUpon>frmemployeelist.vb</DependentUpon>
     </EmbeddedResource>
->>>>>>> 27330fe6ccf49d9011537e27aa5923e1e99cdb2f
-    <EmbeddedResource Include="form\frmempstatus.resx">
-      <DependentUpon>frmempstatus.vb</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="form\frmjobcat.resx">
       <DependentUpon>frmjobcat.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="form\frmjobtitle.resx">
-      <DependentUpon>frmjobtitle.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="form\frmlogin.resx">
       <DependentUpon>frmlogin.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="form\frmpaygrades.resx">
       <DependentUpon>frmpaygrades.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmpersonaldetail.resx">
+      <DependentUpon>frmpersonaldetail.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="form\frmworkshift.resx">
       <DependentUpon>frmworkshift.vb</DependentUpon>
