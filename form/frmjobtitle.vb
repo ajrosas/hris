@@ -1,13 +1,6 @@
 ﻿Public Class frmjobtitle
 
-    Private Sub btnconfig_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnconfig.Click
+    Private Sub frmjobtitle_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
 
     End Sub
-<<<<<<< HEAD
-
-    Private Sub btndelete_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btndelete.Click
-
-    End Sub
-=======
->>>>>>> ajr
 End Class

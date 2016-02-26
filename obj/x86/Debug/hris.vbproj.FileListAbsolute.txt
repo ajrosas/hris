@@ -52,3 +52,4 @@ C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris
 =======
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\bin\Debug\hris.exe.config
 >>>>>>> ajr
+C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.vbprojResolveAssemblyReference.cache
