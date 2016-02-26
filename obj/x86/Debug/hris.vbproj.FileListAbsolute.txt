@@ -13,6 +13,11 @@ C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hr
 C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.exe
 C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.xml
 C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.pdb
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 27330fe6ccf49d9011537e27aa5923e1e99cdb2f
 C:\Users\Jeff\Documents\GitHub\hris\hris\bin\Debug\hris.exe
 C:\Users\Jeff\Documents\GitHub\hris\hris\bin\Debug\hris.pdb
 C:\Users\Jeff\Documents\GitHub\hris\hris\bin\Debug\hris.xml
@@ -23,6 +28,9 @@ C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.frmdash.resources
 C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.frmlogin.resources
 C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.Resources.resources
 C:\Users\Jeff\Documents\GitHub\hris\hris\obj\x86\Debug\hris.vbproj.GenerateResource.Cache
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.frmdash.resources
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.frmemployeelist.resources
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.frmempstatus.resources
@@ -30,6 +38,7 @@ C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hr
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.frmjobtitle.resources
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.frmpaygrades.resources
 C:\Users\Shrewd\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.frmworkshift.resources
+<<<<<<< HEAD
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.exe
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.xml
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.pdb
@@ -49,3 +58,6 @@ C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.frmworkshift.resources
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.Resources.resources
 C:\Users\Jeff\Documents\Visual Studio 2010\Projects\hris\hris\obj\x86\Debug\hris.vbproj.GenerateResource.Cache
+=======
+>>>>>>> 27330fe6ccf49d9011537e27aa5923e1e99cdb2f
+>>>>>>> master
